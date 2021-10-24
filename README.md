@@ -7,5 +7,5 @@
 
 ### https://archive.ics.uci.edu/ml/datasets/iris
 
-### The projects makes use of the inbuilt libraries of python like pandas, numpy, matplotlib, scikit-learn, seaborn thereby depicting a comprehensive understanding of all the
+### The projects make use of the inbuilt libraries of python like pandas, numpy, matplotlib, scikit-learn, seaborn thereby depicting a comprehensive understanding of all the
 ### topics. All of the projects have been done on Jupyter notebook.
