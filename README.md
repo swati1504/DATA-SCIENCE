@@ -1,4 +1,4 @@
-# MACHINE-LEARNING PROJECTS
+# DATA SCIENCE PROJECTS
 
 ### This repository is intended for my machine learning projects.
 
