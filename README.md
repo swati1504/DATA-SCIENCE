@@ -1,6 +1,6 @@
 # DATA SCIENCE PROJECTS
 
-### This repository is intended for my machine learning projects.
+### This repository is intended for my data science projects.
 
 ### I have worked on projects like California Housing Price Prediction, Titanic Survival Prediction, Sales Prediction, Iris Classification,Email Spam Detection, News Classification and their respective datasets have been uploaded here.
 ### The dataset of the Iris Classification has been retrieved from UCI Machine Learning Repository, I have placed a link below to it
